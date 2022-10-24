@@ -26,7 +26,8 @@ Partial Class Form2
         Me.PanelMenuLateral = New Guna.UI2.WinForms.Guna2CustomGradientPanel()
         Me.Panel1 = New System.Windows.Forms.Panel()
         Me.btGestion = New Guna.UI2.WinForms.Guna2Button()
-        Me.PanelMenuLateral.SuspendLayout()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.PanelMenuLateral.SuspendLayout
         Me.SuspendLayout()
         '
         'Guna2vSeparator1
@@ -79,18 +80,30 @@ Partial Class Form2
         Me.btGestion.TabIndex = 2
         Me.btGestion.Text = "Gestion"
         '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.ForeColor = System.Drawing.SystemColors.Control
+        Me.Label1.Location = New System.Drawing.Point(832, 175)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(101, 20)
+        Me.Label1.TabIndex = 2
+        Me.Label1.Text = "HOLA GORKA"
+        '
         'Form2
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 20.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.DarkSlateGray
         Me.ClientSize = New System.Drawing.Size(1150, 671)
+        Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.Guna2vSeparator1)
         Me.Controls.Add(Me.PanelMenuLateral)
         Me.Name = "Form2"
         Me.Text = "Form2"
         Me.PanelMenuLateral.ResumeLayout(False)
         Me.ResumeLayout(False)
+        Me.PerformLayout()
 
     End Sub
 
@@ -98,4 +111,5 @@ Partial Class Form2
     Friend WithEvents PanelMenuLateral As Guna.UI2.WinForms.Guna2CustomGradientPanel
     Friend WithEvents Panel1 As Panel
     Friend WithEvents btGestion As Guna.UI2.WinForms.Guna2Button
+    Friend WithEvents Label1 As Label
 End Class
