@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "o4FtfPOkKVXkj6iOPzsycDpQVTkEOeDRvR3kEgwyQx3wLIMVI6svLX4j4BEIMebCX4teQSYdUwYjZrCetg9qsw==",
+  "dgSpecHash": "yyJb3NEzGmPjzxnIOLp4j1jpxcRBQQmhDM7wjVlZG5Rs6DjiPj+KbDVOLFtudpajGvlvuL/kkfYks+jGvKd7JA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\olatz\\source\\repos\\mazeTPV\\mazeTPV\\mazeTPV.vbproj",
+  "projectFilePath": "C:\\Users\\Gorka\\source\\repos\\VisualBasicTPVReto1\\mazeTPV\\mazeTPV.vbproj",
   "expectedPackageFiles": [
-    "C:\\Users\\olatz\\.nuget\\packages\\guna.ui2.winforms\\2.0.3.5\\guna.ui2.winforms.2.0.3.5.nupkg.sha512"
+    "C:\\Users\\Gorka\\.nuget\\packages\\guna.ui2.winforms\\2.0.3.5\\guna.ui2.winforms.2.0.3.5.nupkg.sha512"
   ],
   "logs": [
     {

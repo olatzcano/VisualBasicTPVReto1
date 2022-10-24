@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\olatz\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\olatz\\.nuget\\packages"
+      "C:\\Users\\Gorka\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Gorka\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true

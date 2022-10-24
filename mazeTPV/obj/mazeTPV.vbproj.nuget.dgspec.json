@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\olatz\\source\\repos\\mazeTPV\\mazeTPV\\mazeTPV.vbproj": {}
+    "C:\\Users\\Gorka\\source\\repos\\VisualBasicTPVReto1\\mazeTPV\\mazeTPV.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\olatz\\source\\repos\\mazeTPV\\mazeTPV\\mazeTPV.vbproj": {
+    "C:\\Users\\Gorka\\source\\repos\\VisualBasicTPVReto1\\mazeTPV\\mazeTPV.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\olatz\\source\\repos\\mazeTPV\\mazeTPV\\mazeTPV.vbproj",
+        "projectUniqueName": "C:\\Users\\Gorka\\source\\repos\\VisualBasicTPVReto1\\mazeTPV\\mazeTPV.vbproj",
         "projectName": "mazeTPV",
-        "projectPath": "C:\\Users\\olatz\\source\\repos\\mazeTPV\\mazeTPV\\mazeTPV.vbproj",
-        "packagesPath": "C:\\Users\\olatz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\olatz\\source\\repos\\mazeTPV\\mazeTPV\\obj\\",
+        "projectPath": "C:\\Users\\Gorka\\source\\repos\\VisualBasicTPVReto1\\mazeTPV\\mazeTPV.vbproj",
+        "packagesPath": "C:\\Users\\Gorka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gorka\\source\\repos\\VisualBasicTPVReto1\\mazeTPV\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\olatz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Gorka\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
